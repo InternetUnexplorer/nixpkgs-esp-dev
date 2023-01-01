@@ -1,0 +1,13 @@
+{
+  "version": "0.11.0-esp32-20221026",
+  "artifacts": {
+    "aarch64-linux": {
+      "url": "https://github.com/espressif/openocd-esp32/releases/download/v0.11.0-esp32-20221026/openocd-esp32-linux-arm64-0.11.0-esp32-20221026.tar.gz",
+      "hash": "sha256-/mCjpgPoxr7kc2fkD8uMDaOjjgEWPpZ068kZsGdwBQY="
+    },
+    "x86_64-linux": {
+      "url": "https://github.com/espressif/openocd-esp32/releases/download/v0.11.0-esp32-20221026/openocd-esp32-linux-amd64-0.11.0-esp32-20221026.tar.gz",
+      "hash": "sha256-zmPpsd+rYMxi2l3Cq8wiunA2xCr+dGcceH6wJnROfQs="
+    }
+  }
+}
