@@ -1,0 +1,62 @@
+{
+  "version": "2022r1",
+  "gcc_version": "11.2.0",
+  "artifacts": {
+    "riscv32-esp-elf": {
+      "aarch64-linux": {
+        "url": "https://github.com/espressif/crosstool-NG/releases/download/esp-2022r1/riscv32-esp-elf-gcc11_2_0-esp-2022r1-linux-arm64.tar.xz",
+        "hash": "sha256-gSoY8uzcP3LB0JjE6LqpaIQQmc6dns+VuuqF/3HhEBM="
+      },
+      "i686-linux": {
+        "url": "https://github.com/espressif/crosstool-NG/releases/download/esp-2022r1/riscv32-esp-elf-gcc11_2_0-esp-2022r1-linux-i686.tar.xz",
+        "hash": "sha256-OdcpXDCiO16pG69hwgdxjOhtSxWJAUsDDhITADcPaW0="
+      },
+      "x86_64-linux": {
+        "url": "https://github.com/espressif/crosstool-NG/releases/download/esp-2022r1/riscv32-esp-elf-gcc11_2_0-esp-2022r1-linux-amd64.tar.xz",
+        "hash": "sha256-UnEPgE30oDOitiHMFs+iECO0IFKBmlHjWioWQUC79mU="
+      }
+    },
+    "xtensa-esp32-elf": {
+      "aarch64-linux": {
+        "url": "https://github.com/espressif/crosstool-NG/releases/download/esp-2022r1/xtensa-esp32-elf-gcc11_2_0-esp-2022r1-linux-arm64.tar.xz",
+        "hash": "sha256-SO0Bq/8eieb+HD6+TgDfagpn5TriSXmXBGSko7ZKpiI="
+      },
+      "i686-linux": {
+        "url": "https://github.com/espressif/crosstool-NG/releases/download/esp-2022r1/xtensa-esp32-elf-gcc11_2_0-esp-2022r1-linux-i686.tar.xz",
+        "hash": "sha256-0GURuxgFfXK1VdbFtisGhvGen4x9fq4hi3Eu7QkH27I="
+      },
+      "x86_64-linux": {
+        "url": "https://github.com/espressif/crosstool-NG/releases/download/esp-2022r1/xtensa-esp32-elf-gcc11_2_0-esp-2022r1-linux-amd64.tar.xz",
+        "hash": "sha256-aY2EB+GCddGP630a/baIALl5BPvjkIBCL7hgmvpJ3zA="
+      }
+    },
+    "xtensa-esp32s2-elf": {
+      "aarch64-linux": {
+        "url": "https://github.com/espressif/crosstool-NG/releases/download/esp-2022r1/xtensa-esp32s2-elf-gcc11_2_0-esp-2022r1-linux-arm64.tar.xz",
+        "hash": "sha256-LwzMnUAnnWQH7ZVHJQ+wQ08WBg+qlEYMUrdGFKOKHiE="
+      },
+      "i686-linux": {
+        "url": "https://github.com/espressif/crosstool-NG/releases/download/esp-2022r1/xtensa-esp32s2-elf-gcc11_2_0-esp-2022r1-linux-i686.tar.xz",
+        "hash": "sha256-UE7+l84kVhU3vUQklLEEb8j7nMQ6HAbvGvpGUrdRcgE="
+      },
+      "x86_64-linux": {
+        "url": "https://github.com/espressif/crosstool-NG/releases/download/esp-2022r1/xtensa-esp32s2-elf-gcc11_2_0-esp-2022r1-linux-amd64.tar.xz",
+        "hash": "sha256-VuWRO2ZiuO7H1rRngOZovH586+8jnjJqdPdkySo8yEE="
+      }
+    },
+    "xtensa-esp32s3-elf": {
+      "aarch64-linux": {
+        "url": "https://github.com/espressif/crosstool-NG/releases/download/esp-2022r1/xtensa-esp32s3-elf-gcc11_2_0-esp-2022r1-linux-arm64.tar.xz",
+        "hash": "sha256-0sb7mKUBgTmp9a9uuAjpaPE4Gls0VHoYX03sFCsPpE4="
+      },
+      "i686-linux": {
+        "url": "https://github.com/espressif/crosstool-NG/releases/download/esp-2022r1/xtensa-esp32s3-elf-gcc11_2_0-esp-2022r1-linux-i686.tar.xz",
+        "hash": "sha256-D+zPiE42tuk8J8eTcpGZsY3yKkCVV7FskLKIOmdI4EE="
+      },
+      "x86_64-linux": {
+        "url": "https://github.com/espressif/crosstool-NG/releases/download/esp-2022r1/xtensa-esp32s3-elf-gcc11_2_0-esp-2022r1-linux-amd64.tar.xz",
+        "hash": "sha256-UFiy5yQWbDTKCewtU3c1AlLei85QObBsADUvmoFR924="
+      }
+    }
+  }
+}
